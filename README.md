@@ -163,7 +163,5 @@
         
         Xmpl.Cloud?
         
- ### Contact
- Twitter calcs9
 
  # Enjoy
